@@ -19,7 +19,7 @@
 
 ![image](https://github.com/stalker98122/stalker98122_1/assets/34240279/f880b3dc-a844-4787-a1dc-243a7d2fb609)
 
-Использование веб-серверов:
+Использование веб-серверов(кол-во пользователей в милионах/даты) :
 
 ![image](https://github.com/stalker98122/stalker98122_1/assets/34240279/1696ee64-d383-452c-b972-edd8ae1e34ce)
 
